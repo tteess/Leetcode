@@ -1,4 +1,4 @@
-# s = 'Helloworldllkjjjjj'
+s = 'Helloworldllkjjjjj'
 # a = slice(5, 10 ,2)
 #
 # a = {'x':1, 'Z':3}
