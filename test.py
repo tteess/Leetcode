@@ -2,7 +2,6 @@
 # a = slice(5, 10 ,2)
 # a = {'x':1, 'Z':3}
 # b = {"y":2, "Z":3}
-# 
 # from collections import ChainMap
 # c = ChainMap(a, b)
 # print(c.keys())
