@@ -3,7 +3,7 @@ matplotlib.use('Agg')
 import pandas as pd
 import matplotlib.pyplot as plt
 import time
-a
+
 
 class Plot(object):
     def __init__(self, *args, **kwargs):
